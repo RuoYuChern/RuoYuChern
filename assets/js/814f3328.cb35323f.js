@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaiwego=self.webpackChunkaiwego||[]).push([[2535],{425:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u535a\u5ba2\u5185\u5bb9","permalink":"/blog/hello"}]}')}}]);
